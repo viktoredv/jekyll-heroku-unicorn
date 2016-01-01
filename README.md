@@ -1,10 +1,1 @@
-# Jekyll + Heroku + Unicorn
-Blazing fast blogging with Jekyll deployed to Heroku with 6 Unicorn workers.
-
-## Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)  
-Deploy your own jekyll site to Heroku with a single click on this button.
-
-### More info
-* [jonasforsberg.se/2012/07/22/jekyll-heroku-unicorn](http://jonasforsberg.se/2012/07/22/jekyll-heroku-unicorn)
-* [jekyllrb.com](http://jekyllrb.com/)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
