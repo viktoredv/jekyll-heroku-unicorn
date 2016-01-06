@@ -8,10 +8,8 @@
      <span class="icon-bar"></span>
      <span class="icon-bar"></span>
     </button> <a class="navbar-brand" href="{{ site.baseurl }}/">Lorem Ipsum</a> </div>
-   <!-- Collect the nav links, forms, and other content for toggling -->
    <div class="collapse navbar-collapse" id="navbar">
-    <ul class="nav navbar-nav"> {% assign pages_list = site.pages %} {% assign group = 'navigation' %} {% include pages_list.html %}
-     <li><a href="#">Hej</a></li>
+    <ul class="nav navbar-nav"> {% assign pages_list = site.pages %} {% assign group = 'navigation' %} {% include pages_list %}
     </ul>
     <ul class="nav navbar-nav navbar-right">
      <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <b class="caret"></b></a>
@@ -26,39 +24,25 @@
      </li>
     </ul>
    </div>
-   <!-- /.navbar-collapse -->
   </div>
-  <!-- /.container-fluid -->
  </nav>
  <nav class="navbar navbar-default" role="navigation">
   <div class="container">
    <div class="navbar-header">
-    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar2">
      <span class="sr-only">Toggle navigation</span>
      <span class="icon-bar"></span>
      <span class="icon-bar"></span>
      <span class="icon-bar"></span>
-    </button> <a class="navbar-brand" href="#">Navigation</a> </div>
-   <!-- Collect the nav links, forms, and other content for toggling -->
-   <div class="collapse navbar-collapse" id="navbar">
-    <ul class="nav navbar-nav">
-     <li><a href="#">Hej</a></li>
+    </button>
+   </div>
+   <div class="collapse navbar-collapse" id="navbar2">
+    <ul class="nav navbar-nav"> {% assign pages_list = site.pages %} {% assign group = 'navigation-2' %} {% include pages_list %}
     </ul>
     <ul class="nav navbar-nav navbar-right">
-     <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <b class="caret"></b></a>
-      <ul class="dropdown-menu">
-       <li><a href="#">Facebook</a></li>
-       <li><a href="#">Twitter</a></li>
-       <li><a href="#">Instagram</a></li>
-       <li><a href="#">Facebook</a></li>
-       <li class="divider"></li>
-       <li><a href="#">Newsletter</a></li>
-      </ul>
-     </li>
+     <li> <a href="#" class="navbar-link">© nbsp.se</a> </li>
     </ul>
    </div>
-   <!-- /.navbar-collapse -->
   </div>
-  <!-- /.container-fluid -->
  </nav>
 </header>

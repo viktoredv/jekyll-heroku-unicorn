@@ -1,7 +1,7 @@
 /* Navbar */
 
 body {
- font-family: 'Futura', 'Century Gothic', Helvetica, Arial, sans-serif;
+ font-family: Helvetica, Arial, sans-serif;
 }
 .navbar {
  border-radius: 0;
@@ -12,11 +12,4 @@ body {
 }
 .navbar-collapse .navbar-nav.navbar-right:last-child > .dropdown:last-child > a {
  border-radius: 0;
-}
-#cover {
- background: url(https://placekitten.com/g/1500/300) no-repeat center center fixed;
- -webkit-background-size: 100% auto;
- -moz-background-size: 100% auto;
- -o-background-size: 100% auto;
- background-size: 100% auto;
 }

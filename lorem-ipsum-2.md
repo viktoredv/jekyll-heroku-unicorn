@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lorem Ipsum
-permalink: /lorem-ipsum/
-group: "navigation"
+title: Lorem Ipsum 2
+permalink: /lorem-ipsum-2/
+group: "navigation-2"
 ---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
